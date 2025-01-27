@@ -6,4 +6,4 @@ layout: home
 title: Home
 ---
 
-Hello, this is Miguel, usually go by Immac or ImmacHn online, this is my github pages site. At the moment is rather empty, but I will be lookig forward to filling it with penty of interesting things. 
+Hello, this is Miguel, usually go by Immac or ImmacHn online, this is my github pages site. At the moment is rather empty, but I will be looking forward to filling it with penty of interesting things. 
