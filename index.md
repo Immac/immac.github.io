@@ -7,11 +7,11 @@ Hello, this is Miguel, usually go by Immac or ImmacHn online; this is my GitHub 
 
 ## About Me
 
-I'm just a normal man who likes to do a lot of different things, a true _Jack of All Trades_. I like to think of myself as highly adaptale and curious, but pragmatic. I do activities such as illustration, both manual and generated.I also do game design and development, be it video games or tabletop games, speedrunning (I actually hold a few World Records, [check them out here](https://www.speedrun.com/users/Immac)). I'm also on [YouTube](https://www.youtube.com/@ImmacHn). I like programming and designing tools, especially when it comes to back-end development, I can do front-end as well, it's just that I prefer back-end development.
+I'm just a normal man who likes to do a lot of different things, a true _Jack of All Trades_. I like to think of myself as highly adaptable and curious, but pragmatic. I do activities such as illustration, both manual and generated. I also do game design and development, be it video games or tabletop games, speedrunning (I actually hold a few World Records, [check them out here](https://www.speedrun.com/users/Immac)). I'm also on [YouTube](https://www.youtube.com/@ImmacHn). I like programming and designing tools, especially when it comes to back-end development. I can do front-end as well, it's just that I prefer back-end development.
 
 ## Projects
 
-- TBD (Please Check out my Github for projects, Stand out projects will be added at a later date)
+- TBD (Please check out my GitHub for projects, standout projects will be added at a later date)
 
 ## Contact
 
