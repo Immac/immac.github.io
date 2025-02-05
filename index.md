@@ -1,17 +1,23 @@
 ---
 layout: home
 title: Home
+author_profile: true
 ---
 
-Hello, this is Miguel, usually go by Immac or ImmacHn online; this is my GitHub Pages site. At the moment it is rather empty, but I will be looking forward to filling it with plenty of interesting things.
+Hello, this is Miguel, usually go by Immac or ImmacHn online; this is my GitHub Pages site. I look forward to filling this page with plenty of interesting things.
 
 ## About Me
 
-I'm just a normal man who likes to do a lot of different things, a true _Jack of All Trades_. I like to think of myself as highly adaptable and curious, but pragmatic. I do activities such as illustration, both manual and generated. I also do game design and development, be it video games or tabletop games, speedrunning (I actually hold a few World Records, [check them out here](https://www.speedrun.com/users/Immac)). I'm also on [YouTube](https://www.youtube.com/@ImmacHn). I like programming and designing tools, especially when it comes to back-end development. I can do front-end as well, it's just that I prefer back-end development.
+I'm a highly adaptable and curious Jack of All Trades. I enjoy various activities like manual and generated illustration, game design and development (both video games and tabletop games), and speedrunning. I even hold a few World Records, [which you can check out here](https://www.speedrun.com/users/Immac)). I'm also on [YouTube](https://www.youtube.com/@ImmacHn). I like programming and designing tools, especially when it comes to back-end development. I can do front-end as well, it's just that I prefer back-end development.
 
-## Projects
+## Some Interesting Points
 
-- TBD (Please check out my GitHub for projects, standout projects will be added at a later date)
+- [Touhou Spirit Clash](https://immac.github.io/touhou-spirit-clash-docs/):[Card Maker](https://github.com/Immac/touhou-spirit-clash-card-maker). [This](https://github.com/Immac/touhou-spirit-clash-card-maker) is a Card Maker for a Trading Card Game I'm developing sporadically, the maker is currently available at [Itch.io](https://immac.itch.io/touhou-tcg-maker), the Desktop version is recommended, but the mobile versions are usable.
+
+- I made the ComftyUI's Dev and Offtopic matrix channel's pictures: 
+    - ![alt text](assets/2025-02-images/comfy-dev.png) 
+    - ![alt text](assets/2025-02-images/comfy-offtopic.png)
+- TBD (Please check out my [GitHub](https://github.com/immac) and [Itch.io](https://immac.itch.io/) for projects, standout projects will be added at a later date)
 
 ## Contact
 
@@ -26,7 +32,7 @@ Stay tuned for upcoming blog posts where I will share my thoughts on whatever I'
 
 - [DeviantArt](https://www.deviantart.com/immachn/gallery/74530990/featured)
 - [Pixiv](https://www.pixiv.net/en/users/9112631)
-- [Civitai](https://civitai.com/user/Immac)
+- [Civitai](https://civitai.green/user/Immac)
 - [OpenArt](https://openart.ai/workflows/@immac)
 
 ### Social
@@ -34,7 +40,8 @@ Stay tuned for upcoming blog posts where I will share my thoughts on whatever I'
 - [GitHub](https://github.com/immac)
 - [X](https://twitter.com/immacHn)
 - [YouTube](https://www.youtube.com/@ImmacHn)
+- [Stack Overflow](https://stackoverflow.com/users/3203817/immac)
 
-### Speedrunning
-
+### Gaming
+- [Itch.io](https://immac.itch.io/)
 - [Speedrun.com Profile](https://www.speedrun.com/users/Immac)
