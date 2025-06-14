@@ -5,6 +5,23 @@
         "command": "bundle",
         "args":  ["exec","jekyll","serve"],
         "type": "shell",
-        "isBackground": true
+        "isBackground": true,
+        "problemMatcher": [
+            {
+                "owner": "jekyll-ready-signal",
+                "pattern": {
+                    "regexp": "^THIS_IS_A_VERY_UNLIKELY_STRING_TO_MATCH_IN_OUTPUT$",
+                    "file": 1,
+                    "line": 1,
+                    "column": 1,
+                    "message": 1
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "^\\\\s*Server address:",
+                    "endsPattern": "^  Server running"
+                }
+            }
+        ]
     }]
 }

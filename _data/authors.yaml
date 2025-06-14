@@ -27,3 +27,6 @@ Immac:
   - label: "Discord"
     icon: "fab fa-fw fa-discord"
     url: "https://discord.com/users/133419862667165696"
+  - label: "TensorArt"
+    icon: "fas fa-fw fa-palette"
+    url: "https://tensor.art/u/818992874267030139"

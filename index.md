@@ -17,12 +17,12 @@ I'm a highly adaptable and curious Jack of All Trades. I enjoy various activitie
 - I made the ComftyUI's Dev and Offtopic matrix channel's pictures: 
     - ![alt text](assets/2025-02-images/comfy-dev.png) 
     - ![alt text](assets/2025-02-images/comfy-offtopic.png)
-    - Here are a couple of [newer versions](https://civitai.green/posts/12566297), in time I'll re-do them as there's something I feel seems off. 
+    - Here are a couple of [newer versions](https://civitai.green/posts/12566297), 
 - TBD (Please check out my [GitHub](https://github.com/immac) and [Itch.io](https://immac.itch.io/) for projects, standout projects will be added at a later date)
 
 ## Contact
 
-Feel free to reach out to me on [GitHub](https://github.com/immac) or via email at [my Gmail](immac.gm+homepage@gmail.com).
+Feel free to reach out to me on [GitHub](https://github.com/immac), via email at [my Gmail](immac.gm+homepage@gmail.com), on [Discord](https://discord.com/users/133419862667165696), or on [Matrix](https://matrix.to/#/@immac:matrix.org).
 
 ## Blog
 

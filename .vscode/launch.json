@@ -7,10 +7,11 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
+            "name": "Launch Brave against localhost",
             "url": "http://localhost:4000",
             "webRoot": "${workspaceFolder}",
-            "preLaunchTask": "Start Server"
+            "preLaunchTask": "Start Server",
+            "runtimeExecutable": "C:\\\\Program Files\\\\BraveSoftware\\\\Brave-Browser\\\\Application\\\\brave.exe"
         }
     ]
 }
